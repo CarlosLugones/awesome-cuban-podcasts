@@ -17,6 +17,6 @@ Listado de los podcasts cubanos
 * [StartupCuba](https://www.ivoox.com/podcast-startupcuba_sq_f1851492_1.html): StartupCuba es un podcast sobre emprendimiento y tecnología. Descubre las startups que irrumpen el mercado y las historias detrás de sus equipos.
 * [SystemInside](https://tupodcast.com/systeminside/): SystemInside Podcast, El Podcast inicial del proyecto SystemInside, que ahora pasa a ser Podcast Inside. En SystemInside usted podrá encontrar todos los audios de los videos que publico en el canal de SystemInside en Youtube, y que pueden ser utilizados como Podcast.
 * [TuPodcast](https://tupodcast.com/tupodcast/): TuPodcast, Es el Podcast que da nombre a la red de TuPodcast.com. Es un Podcast en el cual se habla de Podcasting y de todos los recursos necesarios, tanto hardware, software, técnicas, etc.. que podemos utilizar para crear nuestros Podcasts. También sirve como medio para ofrecer actualizaciones relacionadas con la red en sí.
-* [TecnoCodePlus Podcast](https://anchor.fm/s/1032d060/podcast/rss): TecnoCodePlus Podcast, una herramienta más para ponerte al día en cuanto a noticias se refiere.
+* [TecnoCodePlus Podcast](https://anchor.fm/TecnoCodePlusPodcast): TecnoCodePlus Podcast, una herramienta más para ponerte al día en cuanto a noticias se refiere.
 
 ¿Deseas incluir tu podcast en el listado? Lee la [guía de contribución](CONTRIBUTING.MD).
