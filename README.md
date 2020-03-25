@@ -26,8 +26,9 @@ Listado de los podcasts cubanos
 * [SWL-X-Podcast](https://www.ivoox.com/podcast-swl-x-podcast_sq_f1865202_1.html): Un espacio divertido para debatir de Software Libre, Código Abierto, Hardware Libre y Tecnologías Libres en General.
 * [StartupCuba](https://www.ivoox.com/podcast-startupcuba_sq_f1851492_1.html): StartupCuba es un podcast sobre emprendimiento y tecnología. Descubre las startups que irrumpen el mercado y las historias detrás de sus equipos.
 * [SystemInside](https://tupodcast.com/systeminside/): SystemInside Podcast, El Podcast inicial del proyecto SystemInside, que ahora pasa a ser Podcast Inside. En SystemInside usted podrá encontrar todos los audios de los videos que publico en el canal de SystemInside en Youtube, y que pueden ser utilizados como Podcast.
-* [TuPodcast](https://tupodcast.com/tupodcast/): TuPodcast, Es el Podcast que da nombre a la red de TuPodcast.com. Es un Podcast en el cual se habla de Podcasting y de todos los recursos necesarios, tanto hardware, software, técnicas, etc.. que podemos utilizar para crear nuestros Podcasts. También sirve como medio para ofrecer actualizaciones relacionadas con la red en sí.
+* [Territorio Hostil]( https://anchor.fm/territoriohostil): Un espacio donde hablamos claro y sin censura, vive el mundo real junto a mi.
 * [TecnoCodePlus Podcast](https://anchor.fm/TecnoCodePlusPodcast): TecnoCodePlus Podcast, una herramienta más para ponerte al día en cuanto a noticias se refiere.
+* [TuPodcast](https://tupodcast.com/tupodcast/): TuPodcast, Es el Podcast que da nombre a la red de TuPodcast.com. Es un Podcast en el cual se habla de Podcasting y de todos los recursos necesarios, tanto hardware, software, técnicas, etc.. que podemos utilizar para crear nuestros Podcasts. También sirve como medio para ofrecer actualizaciones relacionadas con la red en sí.
 * [Ventana14](https://www.ivoox.com/podcast-ventana-14-desde-cuba-yoani-sanchez_sq_f1672272_1.html): Un cafecito informativo sobre Cuba, hecho desde La Habana de lunes a viernes por la periodista Yoani Sánchez.
 
 ¿Deseas incluir tu podcast en el listado? Lee la [guía de contribución](CONTRIBUTING.MD).
