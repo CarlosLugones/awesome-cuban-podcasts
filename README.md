@@ -31,6 +31,7 @@ Listado de los podcasts cubanos
 * [TecnoCodePlus Podcast](https://anchor.fm/TecnoCodePlusPodcast): TecnoCodePlus Podcast, una herramienta más para ponerte al día en cuanto a noticias se refiere.
 * [Trinchera Abierta](https://www.ivoox.com/podcast-trinchera-abierta_sq_f1862240_1.html): Transmisión en vivo de los debates "Trinchera Abierta". Acompañado por especialistas en diversas temáticas, Miguel Alejandro Hayes, investigador que centrado en los campos de la Economía Política y Lógica Hegeliana, convoca al debate a partir de las propuestas de sus invitados.
 * [TuPodcast](https://tupodcast.com/tupodcast/): TuPodcast, Es el Podcast que da nombre a la red de TuPodcast.com. Es un Podcast en el cual se habla de Podcasting y de todos los recursos necesarios, tanto hardware, software, técnicas, etc.. que podemos utilizar para crear nuestros Podcasts. También sirve como medio para ofrecer actualizaciones relacionadas con la red en sí.
+* [Valientes x un Mundo Sano](https://www.ivoox.com/p_sq_f1878504_1.html): Podcast sobre Comportamiento Humano, Sociología, Ingeniería Social, y en general sobre temas relacionados con el bienestar y el desarrollo humano.
 * [Ventana14](https://www.ivoox.com/podcast-ventana-14-desde-cuba-yoani-sanchez_sq_f1672272_1.html): Un cafecito informativo sobre Cuba, hecho desde La Habana de lunes a viernes por la periodista Yoani Sánchez.
 
 ¿Deseas incluir tu podcast en el listado? Lee la [guía de contribución](CONTRIBUTING.MD).
