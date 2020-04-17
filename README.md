@@ -34,4 +34,4 @@ Listado de los podcasts cubanos
 * [Valientes x un Mundo Sano](https://www.ivoox.com/p_sq_f1878504_1.html): Podcast sobre Comportamiento Humano, Sociología, Ingeniería Social, y en general sobre temas relacionados con el bienestar y el desarrollo humano.
 * [Ventana14](https://www.ivoox.com/podcast-ventana-14-desde-cuba-yoani-sanchez_sq_f1672272_1.html): Un cafecito informativo sobre Cuba, hecho desde La Habana de lunes a viernes por la periodista Yoani Sánchez.
 
-¿Deseas incluir tu podcast en el listado? Lee la [guía de contribución](CONTRIBUTING.MD).
+Este proyecto ha sido descontinuado a favor de [este directorio](https://cubanpodcasts.lugodev.com).
